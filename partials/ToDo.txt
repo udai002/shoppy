@@ -1,0 +1,15 @@
+User side development
+
+payment charges
+errors checking
+order Tracking
+
+
+
+owner side development
+
+
+delivery
+
+
+
